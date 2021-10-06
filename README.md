@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" alt="cover" />
+<img width="100%" height = "400px" src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
