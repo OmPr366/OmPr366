@@ -19,13 +19,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Reacjs Projects
+- 🔭 I’m currently working on NextJs Projects
 
-- 🌱 I’m currently learning React-JS 
+- 🌱 I’m currently learning Typescript 
 
 - 👯 I’m looking to collaborate on  
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source, Internship ,  Full Stack Web Dev 
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source, Internship ,  Reactjs , NextJs , Backend Devlopment
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/OmPr366?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
