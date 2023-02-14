@@ -10,7 +10,7 @@
 </p>
 <div size='20px'> Hi! My name is Om Prakash. Thank You for taking the time to view my GitHub Profile :smile:  
   <br> <br>
-  <p> Web Devloper | Competitive Programmer | Andriod Developers
+  <p> Web Developer | Competitive Programmer | Andriod Developers
   <br> <b>#Self learner</b>
 </div>
 
